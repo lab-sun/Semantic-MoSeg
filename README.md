@@ -1,6 +1,6 @@
 # Semantic-MoSeg
 
-> This is the offical implementation of the TITS paper: Semantic-MoSeg: Semantics-Assisted Moving-Obstacle Segmentation in Bird-Eye-View for Autonomous Driving. 
+> This is the offical implementation of the TITS paper: [Semantic-MoSeg: Semantics-Assisted Moving-Obstacle Segmentation in Bird-Eye-View for Autonomous Driving](https://doi.org/10.1109/TITS.2025.3570058). 
 
 <div>
 <img src="https://github.com/lab-sun/Semantic-MoSeg/blob/main/img/arc.png" alt="Semantic-MoSeg" width="720" height="480">
