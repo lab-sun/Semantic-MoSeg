@@ -15,7 +15,7 @@ Our experiment is tested on Ubuntu 20.04 with Python 3.8.
   pip install -r requirements.txt
   ```
 
-## 📂 DataSet
+## 📂 Dataset
 We conduct the experiments based on NuScenes dataset and Lyft dataset.
 
 ## 🚀 Script and Visualization
